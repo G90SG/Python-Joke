@@ -31,3 +31,4 @@ elif (joke == 10):
   print ("Labra-cadabra-dor.")
 else: 
   print("You didn't choose the right option, i'm not feeling funny anymore.")
+  
